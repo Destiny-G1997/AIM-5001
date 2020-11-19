@@ -1,0 +1,21 @@
+,Airlines,Status,City,Values
+1,ALASKA,on time,Los Angeles,497.0
+2,ALASKA,on time,Phoenix,221.0
+3,ALASKA,on time,San Diego,212.0
+4,ALASKA,on time,San Francisco,503.0
+5,ALASKA,on time,Seattle,1841.0
+6,ALASKA,delayed,Los Angeles,62.0
+7,ALASKA,delayed,Phoenix,12.0
+8,ALASKA,delayed,San Diego,20.0
+9,ALASKA,delayed,San Francisco,102.0
+10,ALASKA,delayed,Seattle,305.0
+11,AM WEST,on time,Los Angeles,694.0
+12,AM WEST,on time,Phoenix,4840.0
+13,AM WEST,on time,San Diego,383.0
+14,AM WEST,on time,San Francisco,320.0
+15,AM WEST,on time,Seattle,201.0
+16,AM WEST,delayed,Los Angeles,117.0
+17,AM WEST,delayed,Phoenix,415.0
+18,AM WEST,delayed,San Diego,65.0
+19,AM WEST,delayed,San Francisco,129.0
+20,AM WEST,delayed,Seattle,61.0
