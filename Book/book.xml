@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+	<book>
+		<title>The Lord of the Rings</title>
+		<authors>Eric Matthes</authors>
+		<type_of_author>primary author</type_of_author>
+		<price>23.99</price>
+		<publish_date>Sep 21, 2012</publish_date>
+	</book>
+	<book>
+		<title>Before I Go to Sleep</title>
+		<authors>S. J. Watson</authors>
+		<type_of_author>primary author</type_of_author>
+		<price>9.49</price>
+		<publish_date>Feb 5, 2012</publish_date>
+	</book>
+	<book>
+		<title>Software Engineering at Google</title>
+		<authors>Titus Winters, Tom Manshreck, Hyrum Wright</authors>
+		<type_of_author>primary author</type_of_author>
+		<price>34.25</price>
+		<publish_date>Feb 28, 2020</publish_date>
+	</book>
+</books>  
