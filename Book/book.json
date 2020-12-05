@@ -1,0 +1,23 @@
+[
+  {
+    "title": "The Lord of the Rings",
+    "authors": "Tolkien, J. R. R.",
+    "type of author": "primary author",
+    "price": 23.99,
+    "publish_date": "Sep 21, 2012"
+  },
+  {
+    "title": "Before I Go to Sleep",
+    "authors": "S. J. Watson",
+    "type of author": "primary author",
+    "price": 9.49,
+    "publish_date": "Feb 5, 2012"
+  },
+  {
+    "title": "Software Engineering at Google",
+    "authors": ["Titus Winters", "Tom Manshreck", "Hyrum Wright"],
+    "type of author": "primary author",
+    "price": 34.25,
+    "publish_date": "Feb 28, 2020"
+  }
+]
